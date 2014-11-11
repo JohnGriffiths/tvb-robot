@@ -5,7 +5,7 @@ tvb-robot
 
 
 TVB wasn't designed to model cognitive processes or neural computations per se, and certainly not to control robots. 
-Nevertheless, owing to the quality and flexibility of the platform's design, these should all be within its capabilities. Controlling a robot with a TVB-simulated brain is unlikely to match the impressive achievements of e.g. [nengo](http://www.nengo.ca/), but 'exploring the dynamic landscape' of possibilities could potentially yield some useful insights into plasticity, BCIs, and embodied cognition. At the very least, it should open up some new avenues at the interface of robotics, programming, and neuroscience *education*, which is a very appealing combo. And it will be fun. And it will look very cool.
+Nevertheless, owing to the quality and flexibility of the platform's design, some version of each of these should be well-within its capabilities. Controlling a robot with a TVB-simulated brain is unlikely to match the impressive achievements of e.g. [nengo](http://www.nengo.ca/), but 'exploring the dynamic landscape' of possibilities could potentially yield some useful insights into plasticity, BCIs, and embodied cognition. At the very least, it should open up some new avenues at the interface of robotics, programming, and neuroscience *education*, which is a very appealing combo. And it will be fun. And it will look very cool.
 
 *tvb-robot* projects will be faced with three main challenges:
 
