@@ -14,9 +14,7 @@ Nevertheless, owing to the quality and flexibility of the platform's design, som
 3. Whether and how to use supervised learning to 'teach' the bot brain interesting things
 
 
-This repository is a focal-point for any and all code, ideas, and literature reviews of broad relevance to *tvb-robot* projects. 
-
-I positively encouraged to make contributions, great and small, via the traditional fork-and-pull, and/or via github's comments and wiki functionalities. 
+This repository is a focal-point for any and all code, ideas, and literature reviews of broad relevance to *tvb-robot* projects. You are positively encouraged to make contributions, great and small, via the traditional fork-and-pull, and/or via github's comments and wiki functionalities. 
 
 Happy `botting!
 
